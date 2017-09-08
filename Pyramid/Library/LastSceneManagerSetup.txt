@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/Pyramids.unity
-  isLoaded: 1
-  isActive: 1
